@@ -8,6 +8,8 @@ Colecciones de guias oficiales publicadas por Microsoft para tenerlas centraliza
 4. Microsoft Azure Security Compliance
 5. Microsoft Azure System Administrator
 
+Guia Rápida Git y GitHub: https://david-estevez.gitbooks.io/the-git-the-bad-and-the-ugly/content/es/
+
 # Guias sobre Azure
 
  - Azure_Virtual_Datacenter_2017
