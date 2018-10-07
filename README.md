@@ -10,9 +10,17 @@ Colecciones de guias oficiales publicadas por Microsoft para tenerlas centraliza
 
 Guia Rápida Git y GitHub: https://david-estevez.gitbooks.io/the-git-the-bad-and-the-ugly/content/es/
 
-# Guias sobre Azure
+# Guias Arquitecturas 
+- Architecture Microservices for Containerized-NET 2.1
+- Architecting Web Applications with ASP.NET Core 2.1
 
- - Azure_Virtual_Datacenter_2017
- - Azure_Developer_Guia_V2
- - Azure_Developer_Guide_v3
- - Azure_Devops_Guia_Core-2.1
+# Guias Developers Azure
+- Azure_Developer_Guia_V1
+- Azure_Developer_Guia_V2
+- Azure_Developer_Guide_v3
+ 
+# Guias Devops Azure
+- Azure_Devops_Guia_Core-2.1
+ 
+# Guias Tecnicas Azure
+- Azure_Virtual_Datacenter_2017
